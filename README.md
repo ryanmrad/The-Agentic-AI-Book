@@ -5,7 +5,7 @@
 
 Welcome! In this repository you will find the companion Jupyter notebooks for the book [**The Agentic AI Book**](https://book.ryanrad.org) written by [Dr. Ryan Rad](https://www.linkedin.com/in/realryanrad/).
 
-<p align="center"><b><i>From Language Models to Multi-Agent Systems — a practical guide to building production-ready agentic AI systems.</i></b></p>
+<p align="left"><b><i>From Language Models to Multi-Agent Systems — a practical guide to building production-ready agentic AI systems.</i></b></p>
 
 <p align="center">
   <a href="https://book.ryanrad.org">
