@@ -9,7 +9,7 @@ Welcome! In this repository you will find the companion Jupyter notebooks for th
 
 <p align="center">
   <a href="https://book.ryanrad.org">
-    <img src="images/book-cover-small.png" width="50%">
+    <img src="Images/book-cover-small.png" width="50%">
   </a>
 </p>
 
