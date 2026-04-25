@@ -5,11 +5,11 @@
 
 Welcome! In this repository you will find the companion Jupyter notebooks for the book [**The Agentic AI Book**](https://book.ryanrad.org) written by [Dr. Ryan Rad](https://www.linkedin.com/in/realryanrad/).
 
-<p align="center"><b><i>"Your hands-on guide to building, deploying, and scaling intelligent AI agents."</i></b></p>
+<p align="center"><b><i>From Language Models to Multi-Agent Systems — a practical guide to building production-ready agentic AI systems.</i></b></p>
 
 <p align="center">
   <a href="https://book.ryanrad.org">
-    <img src="https://d2sofvawe08yqg.cloudfront.net/TheAgenticAIbook/s_hero?1771606900&1771606900" width="50%">
+    <img src="images/book-cover-small.png" width="50%">
   </a>
 </p>
 
@@ -17,10 +17,10 @@ Welcome! In this repository you will find the companion Jupyter notebooks for th
 
 The book is available on:
 
-* [Google Books](https://books.google.ca/books/about?id=IAXQEQAAQBAJ)
-* [Leanpub](https://leanpub.com/theAgenticAIbook)
-* [Amazon](https://amazon.com/theAgenticAIbook)
-* [Gumroad](https://realryanrad.gumroad.com/l/TheAgenticAIBook)
+* 🖥️ [Leanpub](https://leanpub.com/theAgenticAIbook) — E-Book / EPUB
+* 🖥️ [Gumroad](https://realryanrad.gumroad.com/l/TheAgenticAIBook) — E-Book / EPUB
+* 🖥️ [Google Books](https://books.google.ca/books/about?id=IAXQEQAAQBAJ) — E-Book
+* 📘 [Amazon](https://amazon.com/theAgenticAIbook) — Paperback
 
 ---
 
@@ -41,6 +41,7 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 
 ---
 
+
 ## Bonus Content
 
 Stay up to date with supplementary guides, visual explainers, and deep-dives on emerging agentic AI topics via the [AI Doses Newsletter](https://aidoses.substack.com/).
@@ -55,7 +56,7 @@ If you find this book or companion notebooks useful in your research or work, pl
 @book{agentic-ai-book,
   author    = {Ryan Rad},
   title     = {The Agentic AI Book},
-  year      = {2025},
+  year      = {2026},
   url       = {https://book.ryanrad.org},
   github    = {https://github.com/ryanmrad/The-Agentic-AI-Book}
 }
