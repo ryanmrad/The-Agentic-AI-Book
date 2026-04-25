@@ -1,17 +1,15 @@
 # The Agentic AI Book
 
 <a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Dr.%20Ryan%20Rad-blue.svg?logo=linkedin"></a>
-<a href="https://aidoses.substack.com/"><img src="https://img.shields.io/badge/AI%20Doses-Newsletter-blue.svg?logo=substack"></a>
+<a href="https://aidoses.substack.com/"><img src="https://img.shields.io/badge/AI%20Doses-Newsletter-green.svg?logo=substack"></a>
 
 Welcome! In this repository you will find the companion Jupyter notebooks for the book [**The Agentic AI Book**](https://book.ryanrad.org) written by [Dr. Ryan Rad](https://www.linkedin.com/in/realryanrad/).
 
 <p align="left"><b><i>From Language Models to Multi-Agent Systems — a practical guide to building production-ready agentic AI systems.</i></b></p>
 
-<p align="center">
   <a href="https://book.ryanrad.org">
     <img src="Images/book-cover-small.png" width="50%">
   </a>
-</p>
 
 <br>
 
@@ -19,7 +17,7 @@ The book is available on:
 
 * 🖥️ [Leanpub](https://leanpub.com/theAgenticAIbook) — E-Book / EPUB
 * 🖥️ [Gumroad](https://realryanrad.gumroad.com/l/TheAgenticAIBook) — E-Book / EPUB
-* 🖥️ [Google Books](https://books.google.ca/books/about?id=IAXQEQAAQBAJ) — E-Book
+* 🖥️ [Google Books](https://books.google.ca/books/about?id=IAXQEQAAQBAJ) — E-Book / EPUB
 * 📘 [Amazon](https://amazon.com/theAgenticAIbook) — Paperback
 
 ---
