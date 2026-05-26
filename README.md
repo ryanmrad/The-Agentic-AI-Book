@@ -29,7 +29,7 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | Chapter | Notebook |
 |---|---|
 | **Chapter 1: The AI Landscape** — *From Rule-Based Systems to Intelligent Learning* | |
-| &nbsp;&nbsp;&nbsp; 🔬 Lab 1.1: Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AzErJSaxElDQvE_dLknb0uOKDwoXtQNy) |
+| &nbsp;&nbsp;&nbsp; 🔬 Lab 1.1: Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tuG1AGj--7FqK8DB3BeKdkaFEoQ29XIU) |
 | &nbsp;&nbsp;&nbsp; 🔬 Lab 1.2: Deep Learning) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | **Chapter 2: Language Models and Multimodal Intelligence** — *The Foundation of Intelligent Agents* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter02/Chapter_02_Language_Models_and_Multimodal_Intelligence.ipynb) |
 | **Chapter 3: Building with Large Language Models** — *Techniques for Control, Adaptation, and Reliability* | |
