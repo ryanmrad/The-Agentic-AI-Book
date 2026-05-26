@@ -29,13 +29,13 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | Chapter | Notebook |
 |---|---|
 | **Chapter 1: The AI Landscape** — *From Rule-Based Systems to Intelligent Learning* | |
-| &nbsp;&nbsp;&nbsp; 🔬 Lab 1.1: Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tuG1AGj--7FqK8DB3BeKdkaFEoQ29XIU) |
-| &nbsp;&nbsp;&nbsp; 🔬 Lab 1.2: Deep Learning) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 1.1: Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tuG1AGj--7FqK8DB3BeKdkaFEoQ29XIU) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 1.2: Deep Learning) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | **Chapter 2: Language Models and Multimodal Intelligence** — *The Foundation of Intelligent Agents* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter02/Chapter_02_Language_Models_and_Multimodal_Intelligence.ipynb) |
 | **Chapter 3: Building with Large Language Models** — *Techniques for Control, Adaptation, and Reliability* | |
-| &nbsp;&nbsp;&nbsp; 🔬 Lab 1: Prompt Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab1_Prompt_Engineering.ipynb) |
-| &nbsp;&nbsp;&nbsp; 🔬 Lab 2: Retrieval-Augmented Generation (RAG) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab2_RAG.ipynb) |
-| &nbsp;&nbsp;&nbsp; 🔬 Lab 3: Fine-tuning & RLHF | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab3_Finetuning_RLHF.ipynb) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 3.1: Prompt Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab1_Prompt_Engineering.ipynb) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 3.2: Retrieval-Augmented Generation (RAG) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab2_RAG.ipynb) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 3.3: Fine-tuning & RLHF | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab3_Finetuning_RLHF.ipynb) |
 | **Chapter 4: Agent Building Blocks** — *Core Components and Cognitive Architecture* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter04/Chapter_04_Agent_Building_Blocks.ipynb) |
 | **Chapter 5: Multi-Agent Architectures and Design Patterns** — *From Single Agents to Multi-Agent Ecosystems* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter05/Chapter_05_Multi_Agent_Architectures.ipynb) |
 | **Chapter 6: Production-Ready Agentic AI** — *D2D: From Design to Deployment* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter06/Chapter_06_Production_Ready_Agentic_AI.ipynb) |
