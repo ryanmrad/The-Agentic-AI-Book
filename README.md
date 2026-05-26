@@ -28,7 +28,9 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 
 | Chapter | Notebook |
 |---|---|
-| **Chapter 1: The AI Landscape** — *From Rule-Based Systems to Intelligent Learning* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter01/Chapter_01_The_AI_Landscape.ipynb) |
+| **Chapter 1: The AI Landscape** — *From Rule-Based Systems to Intelligent Learning* | |
+| &nbsp;&nbsp;&nbsp; 🔬 Lab 1.1: Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1AzErJSaxElDQvE_dLknb0uOKDwoXtQNy) |
+| &nbsp;&nbsp;&nbsp; 🔬 Lab 1.2: Deep Learning) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | **Chapter 2: Language Models and Multimodal Intelligence** — *The Foundation of Intelligent Agents* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter02/Chapter_02_Language_Models_and_Multimodal_Intelligence.ipynb) |
 | **Chapter 3: Building with Large Language Models** — *Techniques for Control, Adaptation, and Reliability* | |
 | &nbsp;&nbsp;&nbsp; 🔬 Lab 1: Prompt Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab1_Prompt_Engineering.ipynb) |
