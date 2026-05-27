@@ -33,7 +33,7 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 1.2: Deep Learning: From Pixels to Predictions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qn_sTAU3nDZhHhlW3kV7wtPgUH68PnnL) |
 | **Chapter 2: Language Models and Multimodal Intelligence** — *The Foundation of Intelligent Agents* | |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 2.1: NLP: From Words to Vectors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nEH2qJH7-7BP-2bsadnz7HMd7K6NzckU) |
-| &nbsp;&nbsp;&nbsp; 🧪 Lab 2.2: Deep Learning: From Pixels to Predictions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qn_sTAU3nDZhHhlW3kV7wtPgUH68PnnL) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 2.2: Sequential Modeling: From Memory to Attention | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rL94r4TGZYXiw4YE038MKfvOlc59NuMQ) |
 | **Chapter 3: Building with Large Language Models** — *Techniques for Control, Adaptation, and Reliability* | |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.1: Prompt Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab1_Prompt_Engineering.ipynb) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.2: Retrieval-Augmented Generation (RAG) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab2_RAG.ipynb) |
