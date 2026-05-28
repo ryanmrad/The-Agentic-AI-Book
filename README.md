@@ -36,7 +36,7 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 2.3: Text Generation: Decoding Strategies & Hallucination | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14tyo5Xt0u64wU8Y2V9sE8fUUBD4biZze) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 2.4: Vision-Language Models: When AI Learns to See and Speak | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-Fm-JShKCmYo_8JT7KuPx5Y_fGqdfk2m) |
 | **Chapter 3: Building with Large Language Models** — *Techniques for Control, Adaptation, and Reliability* | |
-| &nbsp;&nbsp;&nbsp; 🧪 Lab 3.1: Prompt Engineering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab1_Prompt_Engineering.ipynb) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 3.1 Prompt Engineering - Instructing LLMs at Scale | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ny2qvCbx5M9p9SMeeNjmsHOgfZailfxy) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.2: Retrieval-Augmented Generation (RAG) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab2_RAG.ipynb) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.3: Fine-tuning & RLHF | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryanmrad/The-Agentic-AI-Book/blob/main/chapter03/Lab3_Finetuning_RLHF.ipynb) |
 | **Chapter 4: Agent Building Blocks** — *Core Components and Cognitive Architecture* || |
