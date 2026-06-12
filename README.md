@@ -14,7 +14,8 @@ Welcome! In this repository you will find the companion Jupyter notebooks for th
 <br>
 
 > [!NOTE]
-> 🚧 **Repository Under Construction** — Notebooks for Chapters 4–6 are actively being developed and are expected to be available by **June 30, 2026**.
+> 🚧 **Repository Under Construction** — This companion repository is actively being developed and finalized. It is expected to be fully available by **June 30, 2026**.
+
 
 The book is available on:
 
