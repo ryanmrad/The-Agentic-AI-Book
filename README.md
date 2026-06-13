@@ -1,5 +1,10 @@
 # The Agentic AI Book
 
+> [!NOTE]
+> 🚧 **Repository Under Construction** — This companion repository is actively being developed and finalized. It is expected to be fully available by **June 30, 2026**.
+
+<br>
+
 <a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Dr.%20Ryan%20Rad-blue.svg?logo=linkedin"></a>
 <a href="https://aidoses.substack.com/"><img src="https://img.shields.io/badge/AI%20Doses-Newsletter-green.svg?logo=substack"></a>
 
@@ -12,10 +17,6 @@ Welcome! In this repository you will find the companion Jupyter notebooks for th
   </a>
 
 <br>
-
-> [!NOTE]
-> 🚧 **Repository Under Construction** — This companion repository is actively being developed and finalized. It is expected to be fully available by **June 30, 2026**.
-
 
 The book is available on:
 
