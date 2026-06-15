@@ -44,13 +44,17 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.1: Prompt Engineering - Instructing LLMs at Scale | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ny2qvCbx5M9p9SMeeNjmsHOgfZailfxy) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.2: RAG - Document Q&A Engine with Grounded AI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/157LSWvHmGBP3o5qShtA9ybDJUEDmLp86) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.3: RLHF & Fine_Tuning - Making LLMs Helpful & Safe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W3em5PFFOm3k-BOk2ieBcCQiu3F-UrhR) |
-| **Chapter 4: Agent Building Blocks** — *Core Components and Cognitive Architecture* || |
+| **Chapter 4: Agent Building Blocks** — *Core Components and Cognitive Architecture* | | 
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 4.1 — Tool Use & the ReAct Pattern | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VBKLzohUqYB41WftZS0RTu9TAR3Y7iQC) |
 | **Chapter 5: Multi-Agent Architectures and Design Patterns** — *From Single Agents to Multi-Agent Ecosystems* || |
 | **Chapter 6: Production-Ready Agentic AI** — *D2D: From Design to Deployment* || |
 
 > **Tip:** Check the [setup](./setup/) folder for a quick-start guide to install all packages locally. Results may vary slightly depending on your OS, Python version, and dependency versions, but should closely match the examples in the book.
 > 
 ---
+
+Lab 4.1 — Tool Use & the ReAct Pattern
+
 
 ## Bonus Content
 
