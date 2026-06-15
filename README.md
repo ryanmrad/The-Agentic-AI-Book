@@ -33,8 +33,8 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | Chapter | Notebook |
 |---|---|
 | **Chapter 1: The AI Landscape** — *From Rule-Based Systems to Intelligent Learning* | |
-| &nbsp;&nbsp;&nbsp; 🧫 Lab 1.1: Machine Learning: From Bits to Beats | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AzErJSaxElDQvE_dLknb0uOKDwoXtQNy) |
-| &nbsp;&nbsp;&nbsp; 🧫 Lab 1.2: Deep Learning: From Pixels to Predictions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qn_sTAU3nDZhHhlW3kV7wtPgUH68PnnL) |
+| &nbsp;&nbsp;&nbsp; 🧫 Lab 1.1 — Machine Learning: From Bits to Beats | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AzErJSaxElDQvE_dLknb0uOKDwoXtQNy) |
+| &nbsp;&nbsp;&nbsp; 🧫 Lab 1.2 — Deep Learning: From Pixels to Predictions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qn_sTAU3nDZhHhlW3kV7wtPgUH68PnnL) |
 | **Chapter 2: Language Models and Multimodal Intelligence** — *The Foundation of Intelligent Agents* | |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 2.1 — NLP: From Words to Vectors | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nEH2qJH7-7BP-2bsadnz7HMd7K6NzckU) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 2.2 — Sequential Modeling: From Memory to Attention | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rL94r4TGZYXiw4YE038MKfvOlc59NuMQ) |
@@ -46,14 +46,13 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.3 — RLHF & Fine_Tuning - Making LLMs Helpful & Safe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W3em5PFFOm3k-BOk2ieBcCQiu3F-UrhR) |
 | **Chapter 4: Agent Building Blocks** — *Core Components and Cognitive Architecture* | | 
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 4.1 — Tool Use & the ReAct Pattern | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VBKLzohUqYB41WftZS0RTu9TAR3Y7iQC) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 4.2 —  Context Engineering & Memory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eY_ZolrTPfdyYIuJZMH-4IeL_8qRiznN) |
 | **Chapter 5: Multi-Agent Architectures and Design Patterns** — *From Single Agents to Multi-Agent Ecosystems* || |
 | **Chapter 6: Production-Ready Agentic AI** — *D2D: From Design to Deployment* || |
 
 > **Tip:** Check the [setup](./setup/) folder for a quick-start guide to install all packages locally. Results may vary slightly depending on your OS, Python version, and dependency versions, but should closely match the examples in the book.
 > 
 ---
-
-Lab 4.1 — Tool Use & the ReAct Pattern
 
 
 ## Bonus Content
