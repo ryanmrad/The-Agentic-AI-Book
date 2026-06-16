@@ -64,7 +64,7 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | **Chapter 5: Multi-Agent Architectures and Design Patterns** — *From Single Agents to Multi-Agent Ecosystems* || |
 | **Chapter 6: Production-Ready Agentic AI** — *D2D: From Design to Deployment* | |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 6.1 — Optimization and Observability | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cPpHv9Uc6QF7PAAYV2EBbM_uJ9J5NIa5) | 
-| &nbsp;&nbsp;&nbsp; 🧪 Lab 6.2 Safety Evaluation and Guardrails | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aXlh0RIW4EYgxJKYeJBpMZoEbCmDwy1f) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 6.2 — Safety Evaluation and Guardrails | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aXlh0RIW4EYgxJKYeJBpMZoEbCmDwy1f) |
 
 > **Tip:** Check the [setup](./setup/) folder for a quick-start guide to install all packages locally. Results may vary slightly depending on your OS, Python version, and dependency versions, but should closely match the examples in the book.
 > 
