@@ -37,7 +37,7 @@ The book is available on:
 * 🖥️ [Leanpub](https://leanpub.com/theAgenticAIbook) — E-Book / EPUB
 * 🖥️ [Gumroad](https://realryanrad.gumroad.com/l/TheAgenticAIBook) — E-Book / EPUB
 * 🖥️ [Google Books](https://books.google.ca/books/about?id=IAXQEQAAQBAJ) — E-Book / EPUB
-* 📘 [Amazon](https://amazon.com/theAgenticAIbook) — Paperback
+* 📘 [Amazon](https://www.amazon.com/dp/B0H533DFH4) — Paperback
 
 ---
 ## Table of Contents
