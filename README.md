@@ -7,7 +7,7 @@
 
 <p align="left">
   <!-- Row 1: Identity, Socials, Stats & License -->
-  <a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Ryan%20Rad-blue.svg?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Dr.%20Ryan%20Rad-blue.svg?logo=linkedin"></a>
   <a href="https://aidoses.substack.com/"><img src="https://img.shields.io/badge/AI%20Doses-Newsletter-green.svg?logo=substack"></a>
   <a href="https://github.com/ryanmrad/The-Agentic-AI-Book/stargazers"><img src="https://img.shields.io/github/stars/ryanmrad/The-Agentic-AI-Book?logo=github&color=yellow&label=Stars"></a>
   <img src="https://img.shields.io/badge/Jupyter%20Labs-11-orange?logo=jupyter">
@@ -15,11 +15,11 @@
 </p>
 
 <p align="left">
-  <!-- Row 2: Architecture & Production Tech Stack -->
+  <!-- Row 2: Architecture & Production Tech Stack (Distinct but Muted Palette) -->
   <img src="https://img.shields.io/badge/Orchestration-LangChain-1C3C3A?logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Framework-LlamaIndex-000000?logo=llamaindex&logoColor=white">
-  <img src="https://img.shields.io/badge/Inference-OpenRouter-7C3AED?logo=openrouter&logoColor=white">
-  <img src="https://img.shields.io/badge/MLOps-Kubeflow-4285F4?logo=kubeflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Framework-LlamaIndex-3C4856?logo=llamaindex&logoColor=white">
+  <img src="https://img.shields.io/badge/Inference-OpenRouter-5B459E?logo=openrouter&logoColor=white">
+  <img src="https://img.shields.io/badge/MLOps-Kubeflow-2A62B5?logo=kubeflow&logoColor=white">
 </p>
 
 Welcome! In this repository you will find the companion Jupyter notebooks for the book [**The Agentic AI Book**](https://book.ryanrad.org) written by [Dr. Ryan Rad](https://www.linkedin.com/in/realryanrad/).
