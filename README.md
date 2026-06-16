@@ -5,7 +5,25 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Dr.%20Ryan%20Rad-blue.svg?logo=linkedin"></a>
+<p align="left">
+  <!-- Line 1: Metrics, Identity & Socials -->
+  <a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Dr.%20Ryan%20Rad-blue.svg?logo=linkedin&style=flat-square"></a>
+  <a href="https://aidoses.substack.com/"><img src="https://img.shields.io/badge/AI%20Doses-Newsletter-green.svg?logo=substack&style=flat-square"></a>
+  <a href="https://github.com/ryanmrad/The-Agentic-AI-Book/stargazers"><img src="https://img.shields.io/github/stars/ryanmrad/The-Agentic-AI-Book?style=flat-square&logo=github&color=yellow&label=Stars"></a>
+  <img src="https://img.shields.io/github/search/ryanmrad/The-Agentic-AI-Book/extension:ipynb?label=Jupyter%20Labs&style=flat-square&logo=jupyter&color=orange">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square"></a>
+</p>
+
+<p align="left">
+  <!-- Line 2: The Practical Tech Stack Covered in the Book -->
+  <img src="https://img.shields.io/badge/Orchestration-LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Framework-LlamaIndex-000000?style=flat-square&logo=llamaindex&logoColor=white">
+  <img src="https://img.shields.io/badge/Inference-OpenRouter-7C3AED?style=flat-square&logo=openrouter&logoColor=white">
+  <img src="https://img.shields.io/badge/MLOps-Kubeflow-4285F4?style=flat-square&logo=kubeflow&logoColor=white">
+</p>
+
+
+<a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Ryan%20Rad-blue.svg?logo=linkedin"></a>
 <a href="https://aidoses.substack.com/"><img src="https://img.shields.io/badge/AI%20Doses-Newsletter-green.svg?logo=substack"></a>
 
 Welcome! In this repository you will find the companion Jupyter notebooks for the book [**The Agentic AI Book**](https://book.ryanrad.org) written by [Dr. Ryan Rad](https://www.linkedin.com/in/realryanrad/).
