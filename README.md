@@ -17,9 +17,9 @@
 <p align="left">
   <!-- Row 2: Architecture & Production Tech Stack (Bright & Distinct) -->
   <img src="https://img.shields.io/badge/Orchestration-LangChain-00A676?logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Framework-LlamaIndex-007ACC?logo=icon&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Framework-LlamaIndex-007ACC?logo=ollama&logoColor=white">
   <img src="https://img.shields.io/badge/Inference-OpenRouter-7C3AED?logo=openrouter&logoColor=white">
-  <img src="https://img.shields.io/badge/MLOps-Kubeflow-FF6B6B?logo=Kubeflow&logoColor=white">
+  <img src="https://img.shields.io/badge/MLOps-Kubeflow-FF6B6B?logo=apacheairflow&logoColor=white">
 </p>
 
 Welcome! In this repository you will find the companion Jupyter notebooks for the book [**The Agentic AI Book**](https://book.ryanrad.org) written by [Dr. Ryan Rad](https://www.linkedin.com/in/realryanrad/).
@@ -34,7 +34,7 @@ Welcome! In this repository you will find the companion Jupyter notebooks for th
 
 The book is available on:
 
-* 🖥️ [Leanpub](https://leanpub.com/theAgenticAIbook) — E-Book / EPUB (pick your own price)
+* 🖥️ [Leanpub](https://leanpub.com/theAgenticAIbook) — E-Book / EPUB *(pick your own price)*
 * 🖥️ [Google Books](https://books.google.ca/books/about?id=IAXQEQAAQBAJ) — E-Book / EPUB
 * 🖥️ [Gumroad](https://realryanrad.gumroad.com/l/TheAgenticAIBook) — E-Book / EPUB
 * 📘 [Amazon](https://www.amazon.com/dp/B0H533DFH4) — Paperback
