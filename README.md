@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Ryan%20Rad-blue.svg?logo=linkedin"></a>
   <a href="https://aidoses.substack.com/"><img src="https://img.shields.io/badge/AI%20Doses-Newsletter-green.svg?logo=substack"></a>
   <a href="https://github.com/ryanmrad/The-Agentic-AI-Book/stargazers"><img src="https://img.shields.io/github/stars/ryanmrad/The-Agentic-AI-Book?label=Stars&style=flat&logo=github&color=yellow"></a>
-  <img src="https://img.shields.io/badge/Jupyter%20Labs-12-orange?logo=jupyter">
+  <img src="https://img.shields.io/badge/Jupyter%20Labs-14-orange?logo=jupyter">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey.svg"></a>
 </p>
 
@@ -61,7 +61,8 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | **Chapter 4: Agent Building Blocks** — *Core Components and Cognitive Architecture* | | 
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 4.1 — Tool Use & the ReAct Pattern | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VBKLzohUqYB41WftZS0RTu9TAR3Y7iQC) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 4.2 —  Context Engineering & Memory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eY_ZolrTPfdyYIuJZMH-4IeL_8qRiznN) |
-| **Chapter 5: Multi-Agent Architectures and Design Patterns** — *From Single Agents to Multi-Agent Ecosystems* || |
+| **Chapter 5: Multi-Agent Architectures and Design Patterns** — *From Single Agents to Multi-Agent Ecosystems* | |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 5.1 — Safety Evaluation and Guardrails | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aXlh0RIW4EYgxJKYeJBpMZoEbCmDwy1f) |
 | **Chapter 6: Production-Ready Agentic AI** — *D2D: From Design to Deployment* | |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 6.1 — Optimization and Observability | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cPpHv9Uc6QF7PAAYV2EBbM_uJ9J5NIa5) | 
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 6.2 — Safety Evaluation and Guardrails | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aXlh0RIW4EYgxJKYeJBpMZoEbCmDwy1f) |
