@@ -60,9 +60,9 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.3 — RLHF & Fine_Tuning - Making LLMs Helpful & Safe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W3em5PFFOm3k-BOk2ieBcCQiu3F-UrhR) |
 | **Chapter 4: Agent Building Blocks** — *Core Components and Cognitive Architecture* | | 
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 4.1 — Tool Use & the ReAct Pattern | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VBKLzohUqYB41WftZS0RTu9TAR3Y7iQC) |
-| &nbsp;&nbsp;&nbsp; 🧪 Lab 4.2 —  Context Engineering & Memory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eY_ZolrTPfdyYIuJZMH-4IeL_8qRiznN) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 4.2 — Context Engineering & Memory | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eY_ZolrTPfdyYIuJZMH-4IeL_8qRiznN) |
 | **Chapter 5: Multi-Agent Architectures and Design Patterns** — *From Single Agents to Multi-Agent Ecosystems* | |
-| &nbsp;&nbsp;&nbsp; 🧪 Lab 5.1 — Lab 5.1 Multi-Agent Design Patterns | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-tnsKDp5UhYrfWNQK-csUFqhuajrs_c2) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 5.1 — Multi-Agent Design Patterns | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-tnsKDp5UhYrfWNQK-csUFqhuajrs_c2) |
 | **Chapter 6: Production-Ready Agentic AI** — *D2D: From Design to Deployment* | |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 6.1 — Optimization and Observability | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cPpHv9Uc6QF7PAAYV2EBbM_uJ9J5NIa5) | 
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 6.2 — Safety Evaluation and Guardrails | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aXlh0RIW4EYgxJKYeJBpMZoEbCmDwy1f) |
