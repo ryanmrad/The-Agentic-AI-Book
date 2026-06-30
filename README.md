@@ -1,7 +1,7 @@
 # The Agentic AI Book
 
 > [!NOTE]
-> 🚧 **Repository Under Construction** — This companion repository is actively being developed and finalized. It is expected to be fully available by **June 30, 2026**.
+> 🚧 **Repository Under Construction** — This companion repository is actively being developed and finalized. It is expected to be fully available by **July 10, 2026**.
 
 <br>
 
