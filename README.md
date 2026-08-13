@@ -57,7 +57,7 @@ We recommend running all notebooks in **Google Colab** for the easiest setup —
 | **Chapter 3: Building with Large Language Models** — *Techniques for Control, Adaptation, and Reliability* | |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.1 — Prompt Engineering - Instructing LLMs at Scale | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ny2qvCbx5M9p9SMeeNjmsHOgfZailfxy) |
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.2 — RAG - Document Q&A Engine with Grounded AI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/157LSWvHmGBP3o5qShtA9ybDJUEDmLp86) |
-| &nbsp;&nbsp;&nbsp; 🧪 Lab 3.3 — SFT - Making LLMs Behave | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1W3em5PFFOm3k-BOk2ieBcCQiu3F-UrhR) |
+| &nbsp;&nbsp;&nbsp; 🧪 Lab 3.3 — SFT - Making LLMs Behave | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 3.4 — RLHF - Making LLMs Helpful & Safe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1W3em5PFFOm3k-BOk2ieBcCQiu3F-UrhR) |
 | **Chapter 4: Agent Building Blocks** — *Core Components and Cognitive Architecture* | | 
 | &nbsp;&nbsp;&nbsp; 🧪 Lab 4.1 — Tool Use & the ReAct Pattern | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VBKLzohUqYB41WftZS0RTu9TAR3Y7iQC) |
