@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/realryanrad/"><img src="https://img.shields.io/badge/Follow%20Ryan%20Rad-blue.svg?logo=linkedin"></a>
   <a href="https://aidoses.substack.com/"><img src="https://img.shields.io/badge/AI%20Doses-Newsletter-green.svg?logo=substack"></a>
   <a href="https://github.com/ryanmrad/The-Agentic-AI-Book/stargazers"><img src="https://img.shields.io/github/stars/ryanmrad/The-Agentic-AI-Book?label=Stars&style=flat&logo=github&color=yellow"></a>
-  <img src="https://img.shields.io/badge/Jupyter%20Labs-14-orange?logo=jupyter">
+  <img src="https://img.shields.io/badge/Jupyter%20Labs-15-orange?logo=jupyter">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-lightgrey.svg"></a>
 </p>
 
