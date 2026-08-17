@@ -32,12 +32,16 @@ Welcome! In this repository you will find the companion Jupyter notebooks for th
 
 <br>
 
-The book is available on:
+### 📖 Available Platforms
 
-* 🖥️ [Leanpub](https://leanpub.com/theAgenticAIbook) — E-Book / EPUB *(pick your own price)*
-* 🖥️ [Google Books](https://books.google.ca/books/about?id=IAXQEQAAQBAJ) — E-Book / EPUB
-* 🖥️ [Gumroad](https://realryanrad.gumroad.com/l/TheAgenticAIBook) — E-Book / EPUB
-* 📘 [Amazon](https://www.amazon.com/dp/B0H533DFH4) — Paperback
+#### 🇺🇸 English Edition
+* **[Leanpub](https://leanpub.com/theAgenticAIbook)** — E-Book / EPUB *(Pay what you want)*
+* **[Google Books](https://books.google.ca/books/about?id=IAXQEQAAQBAJ)** — E-Book / EPUB
+* **[Amazon](https://www.amazon.com/dp/B0H533DFH4)** — Paperback / Kindle E-Book
+
+#### 🇯🇵 Japanese Edition (日本語版)
+* **[Leanpub](https://leanpub.com/EjentikkuAIBukku)** — E-Book / EPUB *(Pay what you want)*
+* **[Amazon Japan](https://www.amazon.co.jp/dp/B0HC4QL57H)** — Paperback / Kindle版
 
 ---
 ## Table of Contents
