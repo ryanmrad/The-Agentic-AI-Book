@@ -32,7 +32,7 @@ Welcome! In this repository you will find the companion Jupyter notebooks for th
 
 <br>
 
-### 📖 Available Platforms
+### 📖 Have you grabbed your copy?
 
 #### 🇺🇸 English Edition
 * **[Leanpub](https://leanpub.com/theAgenticAIbook)** — E-Book / EPUB *(Pay what you want)*
