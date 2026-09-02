@@ -15,11 +15,17 @@
 </p>
 
 <p align="left">
-  <!-- Row 2: Architecture & Production Tech Stack (Bright & Distinct) -->
+  <!-- Row 3: Architecture & Production Tech Stack (Updated OpenRouter) -->
   <img src="https://img.shields.io/badge/Orchestration-LangChain-00A676?logo=langchain&logoColor=white">
   <img src="https://img.shields.io/badge/Data%20Framework-LlamaIndex-007ACC?logo=ollama&logoColor=white">
-  <img src="https://img.shields.io/badge/Inference-OpenRouter-7C3AED?logo=openrouter&logoColor=white">
+  <img src="https://img.shields.io/badge/Inference-OpenRouter-BAFF00?logo=openrouter&logoColor=black">
   <img src="https://img.shields.io/badge/MLOps-Kubeflow-FF6B6B?logo=apacheairflow&logoColor=white">
+</p>
+
+<p align="left">
+  <!-- Row 2: Udemy Courses (Using 7C3AED) -->
+  <a href="https://www.udemy.com/course/foundations-of-large-language-models/?referralCode=908CE341E6CE64B8B00F&couponCode=MT260902G1B"><img src="https://img.shields.io/badge/Udemy-Foundations%20of%20LLMs-7C3AED?logo=udemy&logoColor=white"></a>
+  <a href="https://www.udemy.com/course/llm-engineering-mastery/?referralCode=A4ED84C85ADB853EAC9B&couponCode=MT260902G1B"><img src="https://img.shields.io/badge/Udemy-LLM%20Engineering%20Mastery-7C3AED?logo=udemy&logoColor=white"></a>
 </p>
 
 Welcome! In this repository you will find the companion Jupyter notebooks for the book [**The Agentic AI Book**](https://book.ryanrad.org) written by [Dr. Ryan Rad](https://www.linkedin.com/in/realryanrad/).
